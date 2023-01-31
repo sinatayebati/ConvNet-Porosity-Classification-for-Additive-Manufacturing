@@ -12,7 +12,9 @@ Bellow you can find samples of the processed images using ImageJ.
 ![X-CT4](https://user-images.githubusercontent.com/56824605/215650351-9e9fad08-6de7-4627-a003-03878b8803fe.png)
 
 # Prerequisites
-. TensorFlow
-. Keras
-. Numpy
-. Matplotlib
+The following modules and packages are required in order to run the associated code:
+
+* TensorFlow
+* Keras
+* Numpy
+* Matplotlib
