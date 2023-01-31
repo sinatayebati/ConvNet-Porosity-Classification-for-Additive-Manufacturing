@@ -11,5 +11,8 @@ Bellow you can find samples of the processed images using ImageJ.
 ![X-CT3](https://user-images.githubusercontent.com/56824605/215650346-c6b9bcce-7c07-4e7d-ba5e-6327f9eb7874.png)
 ![X-CT4](https://user-images.githubusercontent.com/56824605/215650351-9e9fad08-6de7-4627-a003-03878b8803fe.png)
 
-
-Eventually the raw images are utilized and fed to the CNN model for training and validation.
+# Prerequisites
+. TensorFlow
+. Keras
+. Numpy
+. Matplotlib
